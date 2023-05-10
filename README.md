@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvinashMahala
-- 👀 I’m interested in .Net Full Stack Development.
+- 👀 I’m interested in Full Stack Application Development.
 - 🌱 I’m currently learning Android Application Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
