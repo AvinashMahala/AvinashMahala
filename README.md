@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/avinashmahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avinashmahala" height="30" width="40" /></a>
 <a href="https://dev.to/avinashmahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="avinashmahala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avinash-mahala-8bba2a119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-mahala-8bba2a119" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avinash-mahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-mahala" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21962479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21962479" height="30" width="40" /></a>
 <a href="https://codesandbox.com/avinash_mahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="avinash_mahala" height="30" width="40" /></a>
 </p>
