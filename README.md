@@ -34,3 +34,99 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashmahala&show_icons=true&locale=en" alt="avinashmahala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashmahala&" alt="avinashmahala" /></p>
+
+
+
+🌟 Here are a few highlights about me:
+
+- 🔍 Proficient in multiple languages, including C# and Python.
+- 🏦 Experienced in financial products and treasury management.
+- 💼 Focused on vendor management, accounting, and travel management solutions.
+- 🧠 Committed to delivering high-quality code and innovative solutions.
+- 🌐 Excited to explore bill payment gateways, expense management, ACH, Fintech, and financial technology.
+- 🌍 Passionate about addressing global challenges through data insights and collaboration.
+
+---
+
+### 🛠️ Skills
+
+Here are some of the skills and technologies I work with:
+
+**UI Development**: HTML5, CSS3, JavaScript, ReactJS, React Native, jQuery, Responsive Design, Cross-browser Compatibility, Debug
+
+**Programming/Scripting Languages**: Python, C++, C#, JAVA, JavaScript, TypeScript, algorithms
+
+**Secure Development**: Security Audits, Data Encryption, Secure Code Reviews
+
+**Distributed Systems**: Scalability, Data syncing, RabbitMQ
+
+**Data Engineering**: Performance optimization, Apache Spark, Data Streaming
+
+**Cloud Platforms & Infrastructure**: AWS, Azure, Kubernetes, Terraform
+
+**Web Development**: Dot Net MVC, Django, ReactJS, NodeJS, ExpressJS
+
+**Database Technologies**: SQL Server, MySQL, MongoDB, T-SQL, PostgreSQL
+
+**Software Development Life Cycle**: Agile, SCRUM, Test-Driven Development (TDD), Design Patterns
+
+**DevOps & Automation**: Jenkins, Docker, Automated Testing with Selenium, Mobile Testing
+
+**Front-End & Back-End Development**: HTML5, CSS3, jQuery, REST APIs
+
+**Data Analysis**: SQL, Tableau, Power BI
+
+**Source Control Management**: Git, GitHub for Desktop
+
+**IDEs**: Visual Studio Code, Visual Studio, PyCharm
+
+---
+
+### 💼 Work Experience
+
+#### University of Texas At Arlington
+*Graduate Research Assistant – Part Time* | *February 2023 – Ongoing*
+
+- Designed secure, scalable software tools using Python, aligning with security best practices and conducting in-depth security audits.
+- Worked in agile sprints, using code reviews, source control, and automated tests to improve system quality and usability.
+- Participated in iterative development cycles, consistently contributing to improving application performance and code quality.
+
+#### General Electric (Digital)
+*Software Engineer – Full Time* | *December 2019 – July 2022*
+
+- Identified security issues and implemented corrective actions to features using data encryption in Python, improving system security by 30%.
+- Engineered a high-performance API, slashing latency by 94% for large-scale data queries, demonstrating skills in optimizing distributed systems for responsiveness.
+- Designed a scalable data loader service for seamless integration of industrial-scale data, streamlining the transfer of 10,000 records per transaction.
+- Automated testing workflows with cucumber and Selenium within Jenkins' pipeline, achieving a 97% efficiency increase, underscoring a commitment to system reliability and shipping in a rapid-growth environment.
+- Recognized for exceptional performance with the Lead with Transparency Award (Q1 2021) and The Circle of Champions Award (Q1 2020).
+
+#### Wipro Limited
+*Project Engineer – Full Time* | *November 2017 - December 2019*
+
+- Developed a scalable middleware solution that integrated the web application with the Vehicle Tracking System, resulting in a dramatic 98% reduction in downtime and reinforcing system stability.
+- Designed and deployed an analytics platform for real-time data processing, delivering critical insights on device metrics and user behaviors, showcasing proficiency in handling and presenting vast datasets.
+- Enhanced data-driven decision-making by automating report generation, leading to a 75% surge in vehicle usage efficiency, exemplifying a keen focus on real-time data optimization.
+- Built a data-centric recommendation engine for the analytics suite, proposing efficient routes that reduced fuel consumption by 19%, showcasing the ability to integrate and optimize large data streams for practical applications.
+- Integrated secure protocols and conducted regular security audits, enhancing overall system security.
+
+---
+
+### 🚀 Projects on GitHub
+
+Explore some of my projects on GitHub:
+
+- [DS_Proj1_RPC](https://github.com/AvinashMahala/DS_Proj1_RPC): Implementation of a simple file upload and download service and a computation service using remote procedure call (RPC) based communication.
+
+- [SE1_Project](https://github.com/AvinashMahala/SE1_Project): QuizQuest, an Android app that makes learning fun and interactive.
+
+- [BenefitCostRatioCalc](https://github.com/AvinashMahala/BenefitCostRatioCalc): A tool for evaluating the economic feasibility of bridge-related projects.
+
+- [PropertyDataManagementSystem](https://github.com/AvinashMahala/PropertyDataManagementSystem): A comprehensive application designed to simplify the management of property data and rental information.
+
+---
+
+### 🎓 Education
+
+I'm currently pursuing my Master of Science in Computer Science and Engineering at the **University of Texas at Arlington**, with an expected graduation date in May 2024.
+
+---
