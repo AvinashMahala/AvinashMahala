@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AvinashMahala/](https://github.com/AvinashMahala/)
+- 👨‍💻 All of my projects are available at [Go To All Repositories](https://github.com/AvinashMahala?tab=repositories)
 
 - 💬 Ask me about **react, next, mern**
 
