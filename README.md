@@ -122,6 +122,7 @@ Explore some of my projects on GitHub:
 - [BenefitCostRatioCalc](https://github.com/AvinashMahala/BenefitCostRatioCalc): A tool for evaluating the economic feasibility of bridge-related projects.
 
 - [PropertyDataManagementSystem](https://github.com/AvinashMahala/PropertyDataManagementSystem): A comprehensive application designed to simplify the management of property data and rental information.
+- [UTA_MS_CSE_5382_Secure_Programming_Project](https://github.com/AvinashMahala/UTA_MS_CSE_5382_Secure_Programming_Project): The "Input Validation Project" is a software application developed as part of the Secure Programming course at The University of Texas at Arlington. This project demonstrates the significance of rigorous input validation in maintaining data integrity and security.
 
 ---
 
