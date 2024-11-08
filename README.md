@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashmahala" alt="avinashmahala" /></a> </p>
 
-- 🔭 I’m currently working on [Property Data Management System](https://github.com/AvinashMahala/PropertyDataManagementSystem)
 
-- 🌱 I’m currently learning **React JS, Next JS, TypeScript**
 
 - 👨‍💻 All of my projects are available at [Go To All Repositories](https://github.com/AvinashMahala?tab=repositories)
 
