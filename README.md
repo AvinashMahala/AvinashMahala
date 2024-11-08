@@ -9,9 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [Go To All Repositories](https://github.com/AvinashMahala?tab=repositories)
 
-- 💬 Ask me about **react, next, mern**
 
-- 📫 How to reach me **avinash.mahala.am@outlook.com**
+- 📫 How to reach me **avinash.mahala.am@gmail.com**
 
 - ⚡ Fun fact **I'm a huge foodie and enjoy experimenting with different cuisines in my free time.**
 
